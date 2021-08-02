@@ -1,3 +1,3 @@
 # Belajar GitHub
 
-Kita akan mempelajari cara penggunaan github dev
+Kita akan mempelajari cara penggunaan github 
